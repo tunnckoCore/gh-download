@@ -1,6 +1,6 @@
 {
   "name": "gh-download",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Small and fast downloading (cloning) of GitHub repository. Supports downloading specific commit, branch or tag",
   "repository": "tunnckoCore/gh-download",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",

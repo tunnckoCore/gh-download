@@ -8,3 +8,7 @@
 /* jshint asi:true */
 
 'use strict'
+
+// const ghd = require('./index')
+
+// ghd('verbose/verb#dev', null, console.log)

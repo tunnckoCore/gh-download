@@ -23,7 +23,7 @@
   "dependencies": {
     "decompress-unzip": "^4.0.1",
     "lazy-cache": "^2.0.1",
-    "parse-github-url": "^0.3.2",
+    "parse-github-url": "^1.0.0",
     "simple-get-stream": "^1.0.2"
   },
   "devDependencies": {
